@@ -52,11 +52,11 @@ module.exports.datastores = {
     // url: 'mysql://user:password@host:port/database',
 
     adapter:'sails-mysql',
-    user:"root",
-    password:'1X9vXuibv8LmiJVNfzF7',
-    port:'6856',
-    host:'containers-us-west-43.railway.app',
-    database:'railway'
+    user:"ucldng7qoxz7rsca",
+    password:'ucldng7qoxz7rsca',
+    port:'3306',
+    host:'bxjnuhzrdkqaizgd7rfb-mysql.services.clever-cloud.com',
+    database:'bxjnuhzrdkqaizgd7rfb'
 
   },
 

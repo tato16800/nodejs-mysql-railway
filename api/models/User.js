@@ -26,7 +26,8 @@ module.exports = {
 
     nombre:{type:'string',required:true},
     caracteristica:{type:'string',required:true},
-    precio:{type:'string',required:true}
+    precio:{type:'string',required:true},
+    catalogo:{type:'string',required:true}
     
 
   },
