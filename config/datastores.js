@@ -53,10 +53,10 @@ module.exports.datastores = {
 
     adapter:'sails-mysql',
     user:"root",
-    password:'',
-    port:'3306',
-    host:'localhost',
-    database:'sailscrud'
+    password:'1X9vXuibv8LmiJVNfzF7',
+    port:'6856',
+    host:'containers-us-west-43.railway.app',
+    database:'railway'
 
   },
 
